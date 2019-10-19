@@ -1,0 +1,229 @@
+.container {
+    margin-top: 3px;
+    margin-left: 100px;
+}
+
+.sheypoor {
+    margin-top: 280px;
+    display: flex;
+    transform: rotate(21deg);
+}
+
+.mouthpiece {
+    background: rgb(0, 96, 255);
+    width: 65px;
+    height: 140px;
+    border-radius: 13px;
+}
+
+.pipe {
+    background: rgb(0, 96, 255);
+    width: 260px;
+    height: 70px;
+    margin-top: 35px;
+    margin-right: -2px;
+}
+
+.pipe2 {
+    background: rgb(0, 133, 255);
+    width: 154px;
+    height: 73px;
+    margin-top: -199px;
+    margin-right: -2px;
+}
+
+.bell {
+    border-bottom: 180px solid rgb(0, 132, 255);
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent;
+    height: 0px;
+    width: 67px;
+    transform: rotate(89deg);
+    margin-top: -19px;
+    margin-right: -50px;
+    border-radius: 30px;
+}
+
+.circle {
+    background: rgb(0, 96, 255);
+    background-image: linear-gradient(to top right, rgb(0, 60, 255), rgb(0, 160, 255));
+    width: 270px;
+    height: 270px;
+    margin-left: -370px;
+    margin-top: 35px;
+    border-radius: 70%;
+}
+
+.innercircle {
+    background: rgb(256, 256, 256);
+    width: 130px;
+    height: 130px;
+    position: relative;
+    margin-left: 69px;
+    margin-top: 69px;
+    border-radius: 70%;
+}
+
+
+/* ================= text part ====================== */
+
+.text {
+    margin-left: 100px;
+    margin-bottom: -60px;
+}
+
+.part1 {
+    margin-top: 80px;
+    margin-left: 450px;
+    width: 220px;
+    height: 40px;
+    transform: skew(150deg);
+    background: #231f20;
+    border-radius: 0px 15px 10px 30px;
+}
+
+.part2 {
+    margin-top: -40px;
+    margin-left: 310px;
+    width: 150px;
+    height: 40px;
+    transform: skew(145deg);
+    background: #231f20;
+    border-radius: 0px 10px 10px 30px;
+}
+
+.part3 {
+    margin-top: -40px;
+    margin-left: 120px;
+    width: 200px;
+    height: 40px;
+    transform: skew(150deg);
+    background: #231f20;
+    border-radius: 0px 10px 15px 30px;
+}
+
+.textcircle {
+    background: #231f20;
+    width: 120px;
+    height: 120px;
+    margin-left: 80px;
+    margin-top: -120px;
+    border-radius: 53px 53px 0px 50px;
+}
+
+.innertextcircle {
+    background: #FFFFff;
+    width: 35px;
+    height: 35px;
+    margin-left: 124px;
+    margin-top: -75px;
+    border-radius: 30px 30px 0px 20px;
+}
+
+.rpart {
+    width: 50px;
+    height: 100px;
+    transform: skew(-20deg);
+    background: #231f20;
+    border-radius: 15px 8px 8px 8px;
+}
+
+.vpart {
+    width: 50px;
+    height: 100px;
+    transform: skew(-20deg);
+    margin-top: -147px;
+    margin-left: 140px;
+    background: #231f20;
+    border-radius: 15px 8px 8px 8px;
+}
+
+.dot1 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 590px;
+    margin-top: -170px;
+    border-radius: 70%;
+}
+
+.dot2 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 535px;
+    margin-top: -50px;
+    border-radius: 70%;
+}
+
+.dot3 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 562px;
+    margin-top: -98px;
+    border-radius: 70%;
+}
+
+.dot4 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 325px;
+    margin-top: 120px;
+    border-radius: 70%;
+}
+
+.dot5 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 380px;
+    margin-top: -50px;
+    border-radius: 70%;
+}
+
+.dot6 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 250px;
+    margin-top: -50px;
+    border-radius: 70%;
+}
+
+.dot7 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 195px;
+    margin-top: -50px;
+    border-radius: 70%;
+}
+
+.dot8 {
+    background: #231f20;
+    width: 50px;
+    height: 50px;
+    margin-left: 222px;
+    margin-top: -4px;
+    border-radius: 70%;
+}
+
+.part9 {
+    background: #231f20;
+    width: 45px;
+    height: 40px;
+    border-radius: 15%;
+    margin-left: 290px;
+    margin-top: -132px;
+}
+
+.part10 {
+    background: #231f20;
+    width: 45px;
+    height: 40px;
+    border-radius: 15%;
+    margin-left: 435px;
+    margin-top: -40px;
+}
